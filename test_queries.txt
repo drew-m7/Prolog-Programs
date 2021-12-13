@@ -1,7 +1,0 @@
-In prog4.pl file: 
-
-Consult(prog4). 
-
-maxList(). 
-
-Halt. 
