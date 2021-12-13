@@ -1,0 +1,18 @@
+true.
+Max = 5 .
+Max = 30 .
+Max = 200 .
+Max = 5 .
+false.
+false.
+true.
+true.
+false.
+false.
+X = [1/4, 2/2, 3/7, 4/3, 5/6, 6/8, 7/5, 8/1] .
+X = [1/6, 2/4, 3/2, 4/7, 5/5, 6/3, 7/1] .
+Subset = [1, 4] .
+Subset = [1, 4, 5] .
+false.
+false.
+false.

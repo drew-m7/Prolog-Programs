@@ -1,0 +1,37 @@
+consult(prog4).
+
+maxlist([1,2,3,4,5], Max).
+
+maxlist([1,2,20,30,4,10,11], Max).
+
+maxlist([100,200,150,30], Max).
+
+maxlist([5], Max).
+
+maxlist([], Max).
+
+ordered([]).
+
+ordered([4]).
+
+ordered([1,2,3,4,5,6]).
+
+ordered([10,1,2,3,5,7]).
+
+ordered([1,2,3,4,5,0]).
+
+nqueens(8, X).
+
+nqueens(7, X).
+
+subsetsum([1,2,3,4], 5, Subset).
+
+subsetsum([1,4,5,6], 10, Subset).
+
+subsetsum([1,4,5,6], 40, Subset).
+
+subsetsum([], 10, Subset).
+
+solution(Persons).
+
+halt.
