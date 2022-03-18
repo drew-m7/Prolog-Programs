@@ -1,13 +1,4 @@
 % Drew Martin
-% IT 327 Prog 4
-% ch 22, ex 2: 10 %
-% ch 22, ex 3: 15 %
-% ch 22, ex 5: 20 %
-% ch 22, ex 6: 25 %
-% The attached logic puzzle: 30 %
-% Provide a separate text file with sample queries that would test each of these 
-% named test_queries.txt
-% Provide a third file name output.txt that shows expected results to those queries
 
 
 % Exercise 2
